@@ -49,3 +49,4 @@ A Chrome extension that fetches sitemap URLs from store.vlinq.co and allows you 
 
 # vlinq-stores-extension
 # vlinq-stores-extension
+# vlinq-stores-extension
